@@ -70,3 +70,8 @@ How to Develop It
     $ npm test
 
 `npm test` will execute the unit tests.
+
+What We Need to Improve On
+--------------------------
+
+Error handling!
