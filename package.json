@@ -1,0 +1,27 @@
+{
+  "name": "reminder-service",
+  "version": "0.0.0",
+  "description": "Small library to help build a service that sends recurring reminders",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brandonramirez/reminder-service.git"
+  },
+  "keywords": [
+    "reminder",
+    "schedule",
+    "recurrence"
+  ],
+  "author": "Brandon Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonramirez/reminder-service/issues"
+  },
+  "homepage": "https://github.com/brandonramirez/reminder-service",
+  "devDependencies": {
+    "vows": "^0.7.0"
+  }
+}
