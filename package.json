@@ -1,6 +1,6 @@
 {
   "name": "reminder-service",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small library to help build a service that sends recurring reminders",
   "main": "index.js",
   "scripts": {
